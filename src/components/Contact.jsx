@@ -15,7 +15,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        import.meta.env.VITE_SERVICE_ID_KEY, import.meta.env.VITE_TEMPLATE_ID_KEY, form.current, import.meta.env.VITE_PUBLIC_KEY
+        import.meta.env.VITE_SERVICE_ID_KEY, import.meta.env.VITE_TEMPLATE_ID_KEY, form.current, 'h0KC8oR9xgieA37gp'
       )
       .then(
         (result) => {
