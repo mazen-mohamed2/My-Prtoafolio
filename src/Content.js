@@ -147,7 +147,7 @@ export const content = {
       },
       {
         title: "why select me",
-        para: "I feel I would be an asset to your organization because I am have three years experience. I am Also, I can learn quickly and under pressure, and I am confident that I will benefit your organization with my work and my commitment to deliver the required tasks on time.",
+        para: "I feel I would be an asset to your organization because I am have three years experience. I Also can learn quickly and under pressure, and I am confident that I will benefit your organization with my work and my commitment to deliver the required tasks on time.",
         logo: services_logo3,
       },
     ],
