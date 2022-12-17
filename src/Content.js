@@ -160,7 +160,7 @@ export const content = {
         title: "Dashboard web",
         image: project1,
         button: "Demo",
-        url: "https://github.com/mazen-mohamed2/react-dashboard",
+        url: "https://dashboard-mazen.netlify.app/",
       },
       {
         title: "Sport E-commerce",
