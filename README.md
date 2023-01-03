@@ -3,7 +3,7 @@
 
 
 # live preview link
-https://codeaprogram-portfolio.web.app/
+https://mazen-portofolio-sit.netlify.app/
 
 
 # packages:
