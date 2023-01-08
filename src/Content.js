@@ -13,7 +13,7 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/employee (1).png";
 
 import project1 from "../src/assets/images/Projects/Dashboard.png";
-import project2 from "../src/assets/images/Projects/e-commerce.png";
+import project2 from "../src/assets/images/Projects/wheather.png";
 import project3 from "../src/assets/images/Projects/Greensock.png";
 
 
