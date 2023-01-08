@@ -163,10 +163,10 @@ export const content = {
         url: "https://dashboard-mazen.netlify.app/",
       },
       {
-        title: "Sport E-commerce",
+        title: "Weather App",
         image: project2,
         button: "Demo",
-        url: "https://react-e-commerce-sport-o7edcwrci-mazen-mohamed2.vercel.app/",
+        url: "https://chipper-boba-221c5d.netlify.app",
       },
       {
         title: "Greensock",
